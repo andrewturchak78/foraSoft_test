@@ -26,7 +26,7 @@
 * **Operating system:** Windows 11 Home
 * **Browser:** Yandex.Browser, Version 23.5.2.625 (64-bit)
 
-### Major: When one of the players wins by getting the combination of three(X or 0) diagonally from top left to bottom right, the game does not show anything to confirm his success and continues
+### Critical: When one of the players wins by getting the combination of three(X or 0) diagonally from top left to bottom right, the game does not show anything to confirm his success and continues
 
 **Steps:**
 1. As any of two players, get the combination of three X or 0 diagonally from top left to bottom right.
